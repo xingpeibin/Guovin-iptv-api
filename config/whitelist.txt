@@ -3,3 +3,8 @@
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 主页,https://xpb.mhfs.eu.org/ds.mp4
+潮州民生,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=cb2196&tk=822270345d4c
+潮州综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=c9797c&tk=822270345d4c
+揭阳生活,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=a9f9f4&tk=822270345d4c
+揭阳综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0115cf&tk=822270345d4c
+潮州综合,http://121.11.160.7:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
