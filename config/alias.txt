@@ -21,3 +21,5 @@ CCTV-14,CCTV14少儿
 CCTV-15,CCTV15音乐
 CCTV-16,CCTV16体育赛事,CCTV16奥林匹克
 CCTV-17,CCTV17农业农村,CCTV17农业
+潮州综合,潮州综合频道，潮州台
+潮州民生,潮州民生频道，
