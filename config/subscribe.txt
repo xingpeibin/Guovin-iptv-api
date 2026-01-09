@@ -1,6 +1,7 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-
+http://117.72.68.25:9230/latest.txt
+https://xpb.mhfs.eu.org/HZ.txt
 
 
 
