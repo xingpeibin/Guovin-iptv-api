@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-01-31 06:14:35,http://112.46.105.20:8009/hls/501/index.m3u8
+2026-01-31 09:19:57,https://xpb.mhfs.eu.org/ds.mp4
 
 📺央视频道,#genre#
+主页,https://xpb.mhfs.eu.org/ds.mp4
 CCTV-1,http://112.46.105.20:8009/hls/501/index.m3u8
 CCTV-1,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
 CCTV-1,http://58.19.43.46:9901/tsfile/live/1020_1.m3u8
@@ -185,3 +186,45 @@ CCTV-17,http://39.134.67.148/PLTV/88888888/224/3221225708/1.m3u8
 CETV-1,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225652/.m3u8
 CETV-1,http://39.134.67.148/PLTV/88888888/224/3221225563/1.m3u8
 CETV-4,http://www.xzbn.site:35455/itv/5000000011000031126.m3u8?cdn=bestzb
+
+🌷潮汕频道,#genre#
+潮州综合,http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20260101
+潮州民生,http://livezhpd.czbtv.com:38880/live/ggpd.m3u8?secret=czbtv20260101
+
+☘️广东频道,#genre#
+潮州综合,http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20260101
+潮州民生,http://livezhpd.czbtv.com:38880/live/ggpd.m3u8?secret=czbtv20260101
+
+🏀体育频道,#genre#
+CCTV-5,http://58.57.40.22:9901/tsfile/live/1004_1.m3u8
+CCTV-5,http://112.46.105.20:8009/hls/503/index.m3u8
+CCTV-5,http://58.19.43.46:9901/tsfile/live/1024_1.m3u8
+CCTV-5,http://61.138.128.226:19901/tsfile/live/0005_1.m3u8
+CCTV-5,http://218.3.138.25:1111/tsfile/live/1004_1.m3u8
+CCTV-5,http://183.196.87.176:880/hls/5/index.m3u8
+CCTV-5,http://39.135.133.134/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
+CCTV-5,http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8
+CCTV-5,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226019/.m3u8
+CCTV-5,http://39.134.67.148/PLTV/88888888/224/3221225818/1.m3u8
+CCTV-5+,http://59.188.94.126:35455/bptv/10000100000000050000000003248330.m3u8
+CCTV-5+,http://58.57.40.22:9901/tsfile/live/1005_1.m3u8
+CCTV-5+,http://120.76.248.139/live/bfgd/4200000246.m3u8
+CCTV-5+,https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
+CCTV-5+,http://58.221.214.82:9901/tsfile/live/0016_1.m3u8
+CCTV-5+,http://39.134.65.71/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV-5+,http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
+CCTV-5+,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225603/.m3u8
+CCTV-5+,http://39.134.67.148/PLTV/88888888/224/3221225507/1.m3u8
+CCTV-5+,http://ott.mobaibox.com/PLTV/3/224/3221228176/index.m3u8
+
+🎵音乐频道,#genre#
+CCTV-15,http://58.57.40.22:9901/tsfile/live/1015_1.m3u8
+CCTV-15,http://120.76.248.139/live/bfgd/4200000133.m3u8
+CCTV-15,http://39.165.196.149:9003//hls/15/index.m3u8
+CCTV-15,http://58.210.168.86:10800/newlive/live/hls/14/live.m3u8
+CCTV-15,https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8
+CCTV-15,http://106.52.196.79:80/TV/mui.php?id=cctv15
+CCTV-15,http://39.134.65.87/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+CCTV-15,http://39.134.67.108/PLTV/88888888/224/3221225513/1.m3u8
+CCTV-15,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225601/.m3u8
+CCTV-15,http://39.134.67.148/PLTV/88888888/224/3221225513/1.m3u8
